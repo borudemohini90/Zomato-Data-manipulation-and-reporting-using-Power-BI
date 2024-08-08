@@ -8,4 +8,10 @@ Replaces all the City names to have correct values.
 Removed unwanted columns like  Locality Verbose, etc.
 For Country-Code data removed null or duplicates.
 Created Measures for – Restaurant Count, Average Rating, Average cost, Cuisine count.
+![image](https://github.com/user-attachments/assets/51eefca0-e1fb-4886-96db-b2b977e73431)
+![image](https://github.com/user-attachments/assets/bbe000de-8e3f-40ff-9338-6b0889853d16)
+![image](https://github.com/user-attachments/assets/6a56dbaa-316d-482e-8291-efed04aac02d)
+
+
+
 
