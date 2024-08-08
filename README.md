@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b175f25d-3e4a-4cb9-af40-cd9b94d5e619)# Zomato-Data-manipulation-and-reporting-using-Power-BI
+# Zomato-Data-manipulation-and-reporting-using-Power-BI
 Data transformation steps:
 Imported data from all the available Excel files (mentioned below) into Power BI. 
 a. Africa b. Asia c. Europe d. NAM e. SAM f. Oceania g. Fact Table h. Country-Code
